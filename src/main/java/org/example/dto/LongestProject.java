@@ -1,4 +1,4 @@
-package dto;
+package org.example.dto;
 
 public class LongestProject {
     private String name;
@@ -14,3 +14,4 @@ public class LongestProject {
         return name + " -> " + monthCount + " months";
     }
 }
+

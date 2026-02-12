@@ -1,6 +1,6 @@
 package org.example;
 
-import dto.*;
+import org.example.dto.*;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
